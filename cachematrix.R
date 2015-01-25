@@ -5,8 +5,6 @@
 ##set the value of the inverse of matrix
 ##get the value of the inverse o matrix
 
-## Write a short comment describing this function
-
 makeCacheMatrix <- function(x=matrix()) {
     m <- NULL
     set <- function(y) {
